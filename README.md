@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+
 * [ ] Settings page to choose background of top and bottom views.
 * [ ] Settings page to choose tip percentage by default.
 
