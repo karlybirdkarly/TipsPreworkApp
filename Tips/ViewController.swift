@@ -52,6 +52,7 @@ class ViewController: UIViewController /*UITextFieldDelegate*/ {
     override func viewDidLoad() {
         super.viewDidLoad()
         billTextField.text = defaults.stringForKey("savedBillAmountKey")
+        billTextField.becomeFirstResponder()
 
     }
 
